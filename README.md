@@ -1,2 +1,2 @@
 # Bootcamp-Pijar-Camp
-Tugas Javascript Awal
+Tugas Javascript_intro 2 
