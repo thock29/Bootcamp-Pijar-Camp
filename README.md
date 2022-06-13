@@ -1,2 +1,2 @@
-# Bootcamp-Pijar-Camp
-Tugas Javascript_intro 2 
+# Tugas Javascript_intro 2
+
